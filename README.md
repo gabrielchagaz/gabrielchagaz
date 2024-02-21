@@ -2,10 +2,6 @@
 
 Olá, sou Gabriel, um Desenvolvedor Júnior na [Mustache](https://mustache.com.br/) em Marília/SP, atualmente trabalho com WordPress. Estou constantemente buscando aprender e evoluir.
 
-## Formação
-
-- **Graduação:** Engenharia da Computação na [UNIMAR](https://www.unimar.br/), Marília/SP
-
 ## Habilidades Técnicas
 
 - **Linguagens:** 
